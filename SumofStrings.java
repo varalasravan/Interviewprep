@@ -1,8 +1,7 @@
+#sum of two numerical strings in java. should return 1818 if 99 and 99 are added. return 1032 if 900 and 132 are added. 
 class SumofStrings {
   public static void main(String[] args) {
     String a="",b="99";
-
-    System.out.println(distinctPairs(s));
     System.out.println(sumOfStrings(a,b));
   }
     public static String sumOfStrings(String a, String b){
