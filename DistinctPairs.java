@@ -1,6 +1,6 @@
 # No.of distinct triplets in a given string.
 
-class Main {
+class DistinctPairs {
   public static void main(String[] args) {
     String s="abcdaaaea";
     System.out.println(distinctPairs(s));
